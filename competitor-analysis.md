@@ -2,7 +2,7 @@
 
 ### HeroForge
 
-HeroForge is a website that allows users to build their own custom figures from a range of prebuilt assests. These designs can then be purchased in physical form, or as downloadable files which can be manipulated by users further.&#x20;
+HeroForge is a website that allows users to build their own custom figures from a range of prebuilt assets. These designs can then be purchased in physical form, or as downloadable files which can be use in online tabletop simulators.
 
 <figure><img src=".gitbook/assets/Hero Forge - Nedfice.png" alt=""><figcaption></figcaption></figure>
 
@@ -10,7 +10,7 @@ I used HeroForge to create my own Dungeons and Dragons character.
 
 1. Good interface that can be understood at a glace
 2. Vast range of options covering many fantasy races and styles
-3. No restrictions on creativity, the services advices on looks, but never restricts
+3. No restrictions on creativity, the services advices on looks, but never restricts the user freedom
 
 ### Business Model:&#x20;
 

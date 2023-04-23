@@ -1,8 +1,22 @@
-# Final Design
+# PORTFOLIO
 
 ## Brief
 
 Integrate Stable Diffusion into character design process via the use of physical interactions
+
+## Problem Area:
+
+
+
+### Validation for research - ArtBreeder
+
+
+
+
+
+### Competitor Analysis
+
+<figure><img src="../.gitbook/assets/Competitor Analysis.png" alt=""><figcaption></figcaption></figure>
 
 ### Physical Constraints
 

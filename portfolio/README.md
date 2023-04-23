@@ -4,9 +4,9 @@
 
 Integrate Stable Diffusion into character design process via the use of physical interactions
 
-## Problem Area:
+## Research Position
 
-
+### Welcome to the FUTURE
 
 ### Validation for research - ArtBreeder
 

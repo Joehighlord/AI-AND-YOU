@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Project Outline](README.md)
+* [End Goals and Plan](end-goals-and-plan.md)
+* [Product Brief and Design Specification](product-brief-and-design-specification.md)
+* [The Ethics of AI Art and Design](the-ethics-of-ai-art-and-design.md)
+* [The AI Design Workflow and Stable Diffusion Functions](the-ai-design-workflow-and-stable-diffusion-functions.md)
+* [Competitor Analysis](competitor-analysis.md)
+* [Ways to interface with Technology](ways-to-interface-with-technology.md)
+* [Physical Prototyping](physical-prototyping.md)
+* [Product Ideation](product-ideation.md)
+* [Final Design](final-design/README.md)
+  * [Physical Interface](final-design/physical-interface.md)
+* [Appendix](appendix.md)
+* [Bibliography](bibliography.md)

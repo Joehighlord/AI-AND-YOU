@@ -9,6 +9,7 @@
 * [Ways to interface with Technology](ways-to-interface-with-technology.md)
 * [Physical Prototyping](physical-prototyping.md)
 * [Product Ideation](product-ideation.md)
+* [PROPOSITION](proposition.md)
 * [PORTFOLIO](portfolio/README.md)
   * [Physical Interface](portfolio/physical-interface.md)
   * [Appendix](portfolio/appendix.md)

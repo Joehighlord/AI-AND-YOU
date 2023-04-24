@@ -39,9 +39,11 @@ Integrate Stable Diffusion into character design process via the use of physical
 
 Lorem Ipsum
 
-### Construction/technical drawings
+### Specifications
 
 Lorem Ipsum
+
+<figure><img src="../.gitbook/assets/Plywood Material Nesting.png" alt=""><figcaption></figcaption></figure>
 
 ### Works like Model
 

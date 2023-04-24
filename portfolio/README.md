@@ -8,19 +8,27 @@ Integrate Stable Diffusion into character design process via the use of physical
 
 ### Welcome to the FUTURE
 
+### Artificial Intelligence tools available to the Designer.&#x20;
+
+<figure><img src="../.gitbook/assets/AI Tools for Designers (1).png" alt=""><figcaption></figcaption></figure>
+
 ### Validation for research - ArtBreeder
 
-
-
-
+## Market Position (Validation) - Character and Figure design
 
 ### Competitor Analysis
 
 <figure><img src="../.gitbook/assets/Competitor Analysis.png" alt=""><figcaption></figcaption></figure>
 
+## Specifications
+
 ### Physical Constraints
 
 <figure><img src="../.gitbook/assets/Physical Constraints.png" alt=""><figcaption></figcaption></figure>
+
+### Material use and Costing
+
+<figure><img src="../.gitbook/assets/Plywood Material Nesting (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Task Analysis
 
@@ -35,15 +43,15 @@ Integrate Stable Diffusion into character design process via the use of physical
 
 <figure><img src="../.gitbook/assets/Task Analysis 1.png" alt=""><figcaption></figcaption></figure>
 
-### User Interface
+### User Interface Research and Design
 
 Lorem Ipsum
 
-### Specifications
+<figure><img src="../.gitbook/assets/ArtBreeder and Automatic1111.png" alt=""><figcaption></figcaption></figure>
 
-Lorem Ipsum
+### Stable Diffusion Functions
 
-<figure><img src="../.gitbook/assets/Plywood Material Nesting.png" alt=""><figcaption></figcaption></figure>
+
 
 ### Works like Model
 

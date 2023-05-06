@@ -4,6 +4,8 @@
 
 Integrate Stable Diffusion into character design process via the use of physical interactions
 
+<figure><img src="../.gitbook/assets/Front Page layout draft.png" alt=""><figcaption></figcaption></figure>
+
 ## Research Position
 
 ### Welcome to the FUTURE
@@ -60,6 +62,14 @@ Lorem Ipsum
 ### Future Facing 'I'll build it one day' RENDER
 
 Lorem Ipsum
+
+<figure><img src="../.gitbook/assets/Concept 2 in situ.png" alt=""><figcaption></figcaption></figure>
+
+
+
+## expert VALIDATION - Expanded Applications of this project
+
+<figure><img src="../.gitbook/assets/Expanded APplications.png" alt=""><figcaption></figcaption></figure>
 
 
 

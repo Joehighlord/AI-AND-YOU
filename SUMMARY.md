@@ -14,5 +14,6 @@
 * [PORTFOLIO](portfolio/README.md)
   * [Physical Interface](portfolio/physical-interface.md)
   * [Appendix](portfolio/appendix.md)
-  * [Bibliography](portfolio/bibliography.md)
 * [Appendix](appendix.md)
+* [ChatGPT](chatgpt.md)
+* [Bibliography](bibliography.md)

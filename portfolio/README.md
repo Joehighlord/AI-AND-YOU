@@ -8,11 +8,48 @@ Integrate Stable Diffusion into character design process via the use of physical
 
 ## Research Position
 
-### Welcome to the FUTURE
+### Welcome to the FUTURE (Speculative Project world)
 
-### Artificial Intelligence tools available to the Designer.&#x20;
+### Speculative Product Prototypes
+
+{% embed url="https://moxierobot.com/" %}
+
+### Speculative Future Visualisation
+
+{% embed url="https://www.youtube.com/watch?v=YJg02ivYzSs" %}
+
+### Speculative Design Stories
+
+The pee back paint.&#x20;
+
+{% embed url="https://www.forbes.com/sites/lauriewinkless/2016/07/31/the-science-behind-the-paint-that-pees-back/" %}
+
+## Artificial Intelligence tools available to the Designer.&#x20;
 
 <figure><img src="../.gitbook/assets/AI Tools for Designers (1).png" alt=""><figcaption></figcaption></figure>
+
+### Systemic Bias in AI Data
+
+{% embed url="https://insidebigdata.com/2022/02/09/systemic-bias-in-data-makes-ai-a-stereotype-machine/" %}
+
+{% embed url="https://medium.com/ai-art-creators/prompting-for-diversity-in-ai-art-d72d1682ffd8" %}
+
+In current AI models such as MidJourney, Diversity is something that must be prompted for. Without including any indication of Ethnicity with the prompt, different models will have a different 'base line'&#x20;
+
+{% hint style="info" %}
+Include a comparison between prompts without using any diversity prompt.&#x20;
+{% endhint %}
+
+But even with 'diversity prompts', some words are attached to specific cultures such as Calypso and carnival (Torcello 2022). If you want to create diverse characters, it can be difficult to know which words to include.&#x20;
+
+### How to Design Race into the interface:
+
+* Random race button!&#x20;
+* flick the 'white person' switch and then adjust the level of whiteness with the lever.
+* Describe the culture in words and the AI creates something.&#x20;
+*
+
+
 
 ### Validation for research - ArtBreeder
 

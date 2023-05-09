@@ -16,3 +16,7 @@ The Art Market. 2022. _The Rise of Ai Art: What Does This Mean for the Art Marke
 
 “HERO FORGE LLC Information.” 2023. _RocketReach_. Accessed April 23. https://rocketreach.co/hero-forge-llc-profile\_b40da37dffb5f59a.
 
+Torcello, Jack. 2022. “Prompting for Diversity in AI Art!” _Medium_. AI Art Creators. December 14. https://medium.com/ai-art-creators/prompting-for-diversity-in-ai-art-d72d1682ffd8.
+
+
+

@@ -36,11 +36,15 @@ The pee back paint.&#x20;
 
 In current AI models such as MidJourney, Diversity is something that must be prompted for. Without including any indication of Ethnicity with the prompt, different models will have a different 'base line'&#x20;
 
+<figure><img src="../.gitbook/assets/xyz_grid-0076-3560968968-masterpiece, best quality, ultra high res,(photorealistic_1.4),RAW photo, highly detailed facial features, beautiful and flawles.png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 Include a comparison between prompts without using any diversity prompt.&#x20;
 {% endhint %}
 
 But even with 'diversity prompts', some words are attached to specific cultures such as Calypso and carnival (Torcello 2022). If you want to create diverse characters, it can be difficult to know which words to include.&#x20;
+
+<figure><img src="../.gitbook/assets/xyz_grid-0077-821931779-masterpiece, best quality, ultra high res,(photorealistic_1.4),RAW photo, highly detailed facial features, beautiful and flawles.png" alt=""><figcaption><p>Prompt: masterpiece, best quality, ultra high res,(photorealistic:1.4),RAW photo, highly detailed facial features, beautiful and flawless face, perfect eyes, 8k uhd, best illumination, best shadow, raytracing, indoors, stunning environment, front on shot, ((diverse races and ethnicities)),man or woman, multiple genders, (office worker sitting and looking into the distance), white shirt, black trousers,</p></figcaption></figure>
 
 ### How to Design Race into the interface:
 

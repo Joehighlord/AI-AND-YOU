@@ -46,6 +46,8 @@ But even with 'diversity prompts', some words are attached to specific cultures 
 
 <figure><img src="../.gitbook/assets/xyz_grid-0077-821931779-masterpiece, best quality, ultra high res,(photorealistic_1.4),RAW photo, highly detailed facial features, beautiful and flawles.png" alt=""><figcaption><p>Prompt: masterpiece, best quality, ultra high res,(photorealistic:1.4),RAW photo, highly detailed facial features, beautiful and flawless face, perfect eyes, 8k uhd, best illumination, best shadow, raytracing, indoors, stunning environment, front on shot, ((diverse races and ethnicities)),man or woman, multiple genders, (office worker sitting and looking into the distance), white shirt, black trousers,</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/xyz_grid-0078-3198444500-masterpiece, best quality, ultra high res,(photorealistic_1.4),RAW photo, highly detailed facial features, beautiful and flawles.png" alt=""><figcaption><p>Prompt: masterpiece, best quality, ultra high res,(photorealistic:1.4),RAW photo, highly detailed facial features, beautiful and flawless face, perfect eyes, 8k uhd, best illumination, best shadow, raytracing, indoors, stunning environment, front on shot, multiple races, European. Asian, African american, ((diverse races and ethnicities)),man or woman, multiple genders, (office worker sitting and looking into the distance), white shirt, black trousers,</p></figcaption></figure>
+
 ### How to Design Race into the interface:
 
 * Random race button!&#x20;

@@ -1,5 +1,7 @@
 # ChatGPT
 
+### Defining Design Fiction
+
 Can you describe 'Speculative Design Fiction'
 
 ChatGPT
@@ -43,3 +45,49 @@ The Peeback wall coating is a water-repellent surface applied to the walls of pu
 The Peeback wall coating is a speculative product story because it is not a real product, but rather a fictional design concept intended to spark discussion and raise awareness about the problem of public urination in cities. By presenting a solution to a common social problem, the Peeback wall coating encourages people to think creatively about the role of design in addressing social and environmental issues.
 
 Speculative product stories like Peeback can be a powerful tool for promoting social and environmental change. By imagining a world where new technologies and design solutions are used to solve complex problems, these stories can inspire people to think differently about the world around them and to take action to create a better future.
+
+### Creating a world
+
+Good day ChatGPT. Can you propose a detailed Speculative Design fiction surrounding a design project that aims to improve the interaction, interfacing and feedback given to designers using AI tools. This design project is set in 2030 and so has more advanced technology than today. This speculative design fiction should outline the state of the world, the type of people who work in the design industry at this time, the kind of AI tools they use and the difficulties they may face.
+
+ChatGPT
+
+Sure, I'd be happy to propose a speculative design fiction that fits your criteria!
+
+***
+
+In the year 2030, the world has experienced significant advancements in artificial intelligence (AI) technology. AI-powered tools have become ubiquitous in the design industry, enabling designers to create complex designs quickly and efficiently. However, these tools have also presented significant challenges for designers, including issues with interaction, interfacing, and feedback.
+
+Enter the "AI Design Assistant," a new project designed to improve the interaction, interfacing, and feedback given to designers using AI tools. The AI Design Assistant is a platform that integrates with existing design tools, including Adobe Creative Suite and Sketch, and provides designers with real-time feedback and suggestions.
+
+The team behind the AI Design Assistant includes a diverse group of designers, AI experts, and psychologists who understand the challenges that designers face. The team worked tirelessly to create a platform that not only integrates with existing tools but also understands the unique needs of individual designers.
+
+The AI Design Assistant includes a sophisticated natural language processing (NLP) system that can interpret the context of the designs, the preferences of the designer, and the design goals to provide tailored suggestions. The platform uses advanced machine learning algorithms to learn from designers' behavior, preferences, and feedback to improve its suggestions over time.
+
+The AI Design Assistant also includes a virtual reality (VR) component that enables designers to immerse themselves in their designs and make real-time adjustments. The VR component provides a more intuitive and immersive way for designers to interact with their designs, making it easier to identify and address design issues.
+
+One of the key benefits of the AI Design Assistant is its ability to provide designers with instant feedback on their designs. The platform analyzes designs in real-time and provides suggestions for improvement. This feedback loop enables designers to make more informed decisions and iterate on their designs more quickly.
+
+Another benefit of the AI Design Assistant is its ability to reduce the cognitive load on designers. The platform automates many of the repetitive and time-consuming tasks that designers typically perform, enabling them to focus on more complex design challenges. This automation also enables designers to work more efficiently, reducing the time and resources required to complete a project.
+
+The AI Design Assistant has been well-received by designers, who appreciate the platform's ability to streamline their workflows, provide real-time feedback, and improve their designs. The platform has also been praised for its ability to personalize suggestions and adapt to individual designers' needs.
+
+As the design industry continues to evolve, the AI Design Assistant will play an increasingly important role in improving designers' interaction, interfacing, and feedback with AI tools. With its advanced NLP system, machine learning algorithms, and VR component, the AI Design Assistant is poised to become a critical tool for designers in the years to come.
+
+
+
+How could 'The AI Design Assistant' help a character designer or video game developer design assets or models in this world?
+
+ChatGPT
+
+Great question! 'The AI Design Assistant' can provide significant help to character designers or video game developers who are designing assets or models.
+
+For a character designer, 'The AI Design Assistant' can offer personalized suggestions on elements such as the character's clothing, hair, accessories, and facial features. It can analyze the designer's previous work to determine their style and preferences, and use this information to suggest design options that align with their style. For instance, if a designer typically creates characters with a certain aesthetic, such as futuristic or gothic, the platform can offer suggestions that fit within that style.
+
+In addition, the AI Design Assistant can provide real-time feedback as the designer works, enabling them to see how design changes affect the character's overall look and feel. This feedback loop can help the designer make more informed decisions about the character's design, leading to a more cohesive and polished final product.
+
+For video game developers, 'The AI Design Assistant' can offer similar benefits. For example, it can help designers create 3D models of in-game assets such as weapons, vehicles, and environments. The platform can provide personalized suggestions on the design of these assets, taking into account the game's setting and art style. It can also analyze the designer's previous work to understand their design preferences and provide suggestions that align with their style.
+
+The AI Design Assistant can also help video game developers optimize their assets for different platforms and devices. For instance, it can analyze the technical specifications of the platform or device and offer suggestions on how to optimize the asset's design for that platform. This can help ensure that the asset performs well and looks great across a range of devices.
+
+Overall, 'The AI Design Assistant' can significantly improve the design process for character designers and video game developers by providing personalized suggestions, real-time feedback, and optimization recommendations. By streamlining the design process and reducing the cognitive load on designers, the platform can help designers create better assets and models more efficiently.

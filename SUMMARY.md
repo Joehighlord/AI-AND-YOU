@@ -16,4 +16,4 @@
   * [Appendix](portfolio/appendix.md)
 * [Appendix](appendix.md)
 * [ChatGPT](chatgpt.md)
-* [Bibliography](bibliography.md)
+* [Bibliography](portfolio/bibliography.md)

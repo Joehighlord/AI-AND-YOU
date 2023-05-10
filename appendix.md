@@ -11,3 +11,11 @@
 <figure><img src=".gitbook/assets/Sanaz Ethics form.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src=".gitbook/assets/Notes from Interview with Sanaz.jpg" alt=""><figcaption></figcaption></figure>
+
+### Expert Interview - Dr David&#x20;
+
+{% file src=".gitbook/assets/Dr David Signed Ethics Form.doc" %}
+
+&#x20;
+
+<figure><img src=".gitbook/assets/Dr David Interview Notes.jpg" alt=""><figcaption></figcaption></figure>

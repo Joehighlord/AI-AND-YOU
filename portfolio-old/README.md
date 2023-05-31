@@ -1,4 +1,4 @@
-# PORTFOLIO
+# PORTFOLIO (OLD)
 
 ## Brief
 
@@ -94,13 +94,7 @@ Lorem Ipsum
 
 <figure><img src="../.gitbook/assets/ArtBreeder and Automatic1111.png" alt=""><figcaption></figcaption></figure>
 
-### Stable Diffusion Functions
 
-
-
-### Works like Model
-
-Lorem Ipsum
 
 ### Future Facing 'I'll build it one day' RENDER
 

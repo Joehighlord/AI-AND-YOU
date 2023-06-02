@@ -12,7 +12,9 @@ WELL!&#x20;
 
 Let me introduce ControlForge! An innovative method of interfacing with AI design tools that anyone, even your mother, can understand!&#x20;
 
-ControlForge takes many of the obtuse and complex features of Ai art and design and gives them a  physical form. In the dark ages of Ai art, back in 2023 for example before the great AI wars and the signing of the GPT Agreement. Tools such as Stable Diffusion relied on:
+ControlForge takes many of the obtuse and complex features of Ai art and design and gives them a  physical form.&#x20;
+
+In 2022, AI art really hit the mainstream with things like Midjourney and Stable Diffusion. These tool relied on:
 
 Text Prompting and prompt weighting
 

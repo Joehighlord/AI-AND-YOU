@@ -45,3 +45,24 @@ When happy with the weighting of a figure. It can be locked in by pressing the b
 ControlFOrge projects the generation of these models as a hologram. This hologram changes in real time as the weighting units are adjusted. These figures were used to generate a new concept for the next OMEN unit. WHich we're calling in house - OMEN Prime.&#x20;
 
 As shown, as the 'pose figure' is given more weight, the pose of OMEN Prime becomes more and more similar to it.&#x20;
+
+Development
+
+As with all design, it doesn't happen over night. In the case of ControlForge there were a lot of prototypes leading up to it.&#x20;
+
+Our first product, OMEN1, is a healthcare assistant bot that uses Artificial Intelligence diagnose patients from home and cut out a lot of the bloat in the NHS.&#x20;
+
+It can also be seen as an AI that cares.&#x20;
+
+Following on from this, we conceptualised an 'emotional suport 3D printer'. Sounds silly yes, but imagine this. You come home from a long day at work and talk about your woes with your printer. It listens, it learns and it prints you a thingy! I might solve the problem, it might just make you laugh.&#x20;
+
+There was also the 'mild inconvenience logger'. It's a bit of jewellery that listens to all of your daily grumblings about the bins or the council and logs them. Then at the end of the day it designs you a brief that will make your personal world better.&#x20;
+
+Among all of these is the idea of interfacing with artificial intelligence screenlessly. Obviously most AI design tools rely on both a screen and written text prompting. However it can also be done with uploaded images.&#x20;
+
+Our next concept was Stable Diffusion - in a box. (Our healthcare robot is called OMEN. We don't do names very well). This concept took the basic functions of Image-to-image and gives them a physical interface.&#x20;
+
+This idea showed potential and our next concept - Stable Diffusion in a box mk2 expanded the number of functions translated into the physical. Most notably giving the user the ability to directly affect the lighting and turning the Classifier Free Guidance - something no one understands, into the CHAOS LEVER.&#x20;
+
+clearer.&#x20;
+

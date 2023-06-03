@@ -54,6 +54,8 @@ Finally. the generation can be fine-tuned using the 'Chaos Slider' and the 'Bias
 
 \<Time saving visual image.>
 
+The final output of ControlForge is an editable 3D file that can be modified manually and used for the rest of production and development.  &#x20;
+
 ### Development
 
 As with all design, it doesn't happen over night. In the case of ControlForge there were a lot of prototypes leading up to it.&#x20;
@@ -92,7 +94,7 @@ This went on to inform the final design. Most notably interchanging figures and 
 
 
 
-## The Final Product!&#x20;
+## The Making the Final Product!&#x20;
 
 
 
@@ -104,7 +106,19 @@ ControlForge is aimed specifically at character design. But when discussing the 
 
 Heres a few concepts of this idea.&#x20;
 
-Conclusion
+## Conclusion
+
+ControlForge is a project founded on the idea that for AI design to truly become a viable part of the workflow. It needs to be given a physical, intuitive interface that offers the designer real-time feedback, and the chance to act upon that feedback.&#x20;
+
+This system gives designers that power. There's no need to write and refine monsterus prompts, adjust unclear and ambiguous settings, then wait for the results to generate.&#x20;
+
+With ControlForge, we believe that products can be conceptualised not only rapidly, but accelerated into the prototyping phase due to the output of a model rather than an image.
+
+As I used to say back in 2023 at university. AI is here, has been for a while. It works exceptionally well and as designers we need to embrace it's power in new ways every day or be left behind like many used to fear  .&#x20;
+
+This is that power.&#x20;
+
+Enjoy the future. &#x20;
 
 
 

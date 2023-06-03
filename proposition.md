@@ -1,7 +1,5 @@
 # PROPOSITION
 
-<figure><img src=".gitbook/assets/Under construction.png" alt=""><figcaption></figcaption></figure>
-
 ### Script for filmed section:
 
 WELCOME TO THE FUTURE!
@@ -26,9 +24,9 @@ Samplers and Classifer Free Guidence
 
 And something called 'ControlNET'&#x20;
 
-ControlForge aims to condense all of these functions into something intuitive to use, physical but doesn't limit the creative output of AI design.
+ControlForge aims to condense all of these functions into something intuitive to use, physical and most importantly a system doesn't limit the creative output of AI design.
 
-This model is aimed at being part of a character designers workflow, but the technology can be applied to any area of product design.&#x20;
+The first model is aimed at character designers and their AI workflow, but the technology can be applied to any area of product design.&#x20;
 
 But how does it work?&#x20;
 
@@ -36,17 +34,27 @@ ControlForge is largely based on ControlNET. A feature of stable diffusion menti
 
 But instead of typing some long and nonsense text prompt and prompt weighting. ControlForge gets its additional information from placing other figures into the two weighting units.&#x20;
 
-The ControlForge AI model will use these two weighting cylinders and the figures within in to get pose, colour and detail information.&#x20;
+The ControlForge AI model will use these two weighting units and the figures within in to get pose, colour and detail information.&#x20;
 
-The how much 'weight' is taken from these figures can be controlled by physically pushing down the weighting units. As the unit is pushed down, more and more data is taken from the figure.&#x20;
+The how much 'weight' is taken from these figures can be controlled by physically pushing down the weighting units. As the unit is pushed down, more and more data is taken from the figure as opposed to the base model.
 
-When happy with the weighting of a figure. It can be locked in by pressing the button on the front, and the figure can be changed out with another one.
+This also works with pose figures, as shown here.&#x20;
 
-ControlFOrge projects the generation of these models as a hologram. This hologram changes in real time as the weighting units are adjusted. These figures were used to generate a new concept for the next OMEN unit. WHich we're calling in house - OMEN Prime.&#x20;
+These weights are used along with the base model to generate a new 3D object. Projected as a hologram&#x20;
 
-As shown, as the 'pose figure' is given more weight, the pose of OMEN Prime becomes more and more similar to it.&#x20;
+This hologram changes in real time as the weighting units are adjusted.
 
-Development
+&#x20;These 4 figures were used to generate new concepts for the next OMEN unit. Which we're calling OMEN Prime.&#x20;
+
+When you're happy with the weighting of a figure. It can be locked in by pressing one of the buttons on the front,  you can then change the figure and repeat. The base figure can be changed at any time.&#x20;
+
+This means new characters can be generated with as few as two figures, or as many as you like to get the perfect concept!
+
+Finally. the generation can be fine-tuned using the 'Chaos Slider' and the 'Bias Dial'. these simplify huge numbers of obtuse Ai art functions and changes are shown in real time.&#x20;
+
+\<Time saving visual image.>
+
+### Development
 
 As with all design, it doesn't happen over night. In the case of ControlForge there were a lot of prototypes leading up to it.&#x20;
 
@@ -58,11 +66,15 @@ Following on from this, we conceptualised an 'emotional suport 3D printer'. Soun
 
 There was also the 'mild inconvenience logger'. It's a bit of jewellery that listens to all of your daily grumblings about the bins or the council and logs them. Then at the end of the day it designs you a brief that will make your personal world better.&#x20;
 
-Among all of these is the idea of interfacing with artificial intelligence screenlessly. Obviously most AI design tools rely on both a screen and written text prompting. However it can also be done with uploaded images.&#x20;
+Among all of these is the idea of interfacing with artificial intelligence screenlessly.
 
-Our next concept was Stable Diffusion - in a box. (Our healthcare robot is called OMEN. We don't do names very well). This concept took the basic functions of Image-to-image and gives them a physical interface.&#x20;
+So Our next concept was Stable Diffusion - in a box. This concept took the basic functions of Image-to-image and gives them a physical interface. Removing the need for a screen from Ai Design.
 
-This idea showed potential and our next concept - Stable Diffusion in a box mk2 expanded the number of functions translated into the physical. Most notably giving the user the ability to directly affect the lighting and turning the Classifier Free Guidance - something no one understands, into the CHAOS LEVER.&#x20;
+(Our healthcare robot is called OMEN. We don't do names very well).&#x20;
+
+This idea showed potential and our next concept expanded the number of functions translated into the physical.
+
+&#x20;Most notably giving the user the ability to directly affect the lighting, use physical models in place of images, and introduced the idea of the 'choas lever'.
 
 clearer.&#x20;
 

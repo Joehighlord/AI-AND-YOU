@@ -96,3 +96,15 @@ This went on to inform the final design. Most notably interchanging figures and 
 
 
 
+
+
+### Post Product Validation and future applications:
+
+ControlForge is aimed specifically at character design. But when discussing the project with Dr Sanaz, she said that another promising area for this method of AI interaction is cultural heritage and education. Rather than building character. A similar system could be used to rebuild an display artifacts.&#x20;
+
+Heres a few concepts of this idea.&#x20;
+
+Conclusion
+
+
+

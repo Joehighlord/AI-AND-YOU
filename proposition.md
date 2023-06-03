@@ -74,7 +74,25 @@ So Our next concept was Stable Diffusion - in a box. This concept took the basic
 
 This idea showed potential and our next concept expanded the number of functions translated into the physical.
 
-&#x20;Most notably giving the user the ability to directly affect the lighting, use physical models in place of images, and introduced the idea of the 'choas lever'.
+&#x20;Most notably giving the user the ability to directly affect the lighting, use physical models in place of images, and introduced the idea of the 'chaos lever'.
 
-clearer.&#x20;
+As the project was now about screen less interfaces. We experimented with the use of holograms to project the output of the AI generation. Attempting to Incorporate this feature started to narrow down potential forms for the device to take.&#x20;
+
+(Show blender concepts and drawings)&#x20;
+
+## VALIDATION
+
+These concepts were shown to two experts in Human-Computer interaction at the University of Brighton. Dr David Harely and Dr. Sanaz Fallahkhair.
+
+Myself and David talked at length about introducing the element of play and the creative process. And encouraged the idea of allowing users to 'live update' the Ai model as it was being used - similar to ow Stable Diffusion can be fine-tuned with Checkpoint models and LoRA files.&#x20;
+
+\<Show clip>
+
+This went on to inform the final design. Most notably interchanging figures and manual weighting aspect of ControlForge&#x20;
+
+
+
+## The Final Product!&#x20;
+
+
 

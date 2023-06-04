@@ -96,15 +96,17 @@ This went on to inform the final design. Most notably interchanging figures and 
 
 ## The Making the Final Product!&#x20;
 
+While stunning to look at. This is just a model of the product - for shows and such - but it has been designed with final manufacture in mind.&#x20;
 
+ControlForge will be fabricated out of sheet aluminium body parts. For the model, 3mm sheet acrylic was used as a substitute as this can be treated as sheet metal while designing in CAD. And can be line bent to emulate sheet metal fabrication methods.&#x20;
 
-
+The weighting units and figures are supported on carriages built with extension springs to allow for movement within limits. &#x20;
 
 ### Post Product Validation and future applications:
 
 ControlForge is aimed specifically at character design. But when discussing the project with Dr Sanaz, she said that another promising area for this method of AI interaction is cultural heritage and education. Rather than building character. A similar system could be used to rebuild an display artifacts.&#x20;
 
-Heres a few concepts of this idea.&#x20;
+Here's a few concepts of this idea.&#x20;
 
 ## Conclusion
 
